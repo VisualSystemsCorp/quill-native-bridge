@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 11.1.0
+
+- **BREAKING CHANGE**: Removes the experimental Linux implementation to fix [#17](https://github.com/FlutterQuill/quill-native-bridge/issues/17).
+
 ## 11.0.1
 
 - Adds `isAppleSafari` method to check whether the current web app is running on Safari browser.
