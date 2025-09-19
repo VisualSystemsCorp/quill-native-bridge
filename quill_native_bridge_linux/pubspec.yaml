@@ -28,7 +28,6 @@ dev_dependencies:
 
 flutter:
   assets:
-  - assets/xclip
   plugin:
     implements: quill_native_bridge
     platforms:
